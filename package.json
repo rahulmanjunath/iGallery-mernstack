@@ -1,0 +1,11 @@
+{
+  "name": "dobby-ads",
+  "version": "1.0.0",
+  "description": "Gallery Application using MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Manjunath",
+  "license": "MIT"
+}
